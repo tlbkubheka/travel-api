@@ -75,4 +75,4 @@ npx jest
 ```
 
 ## How AI Was Used
-- AI (ChatGPT) was used to design the schema, plan architecture, refactor code for best practices, and generate initial service and resolver logic. AI also suggested test cases and helped debug TypeScript/Jest/ESM compatibility issues. All code was reviewed and adapted for clarity and maintainability.
+- AI (ChatGPT) was used to refactor code for best practices, and generate initial service. AI also suggested test cases and helped debug TypeScript/Jest/ESM compatibility issues. All code was reviewed and adapted for clarity and maintainability. I used VS code which has Copilot and that was useful sometimes with code suggestion.
